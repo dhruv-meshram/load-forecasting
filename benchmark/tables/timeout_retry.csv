@@ -1,0 +1,3 @@
+model,timeout_ms,requests,failed_after_retries,failure_rate_pct,total_retries_used,p95_success_ms
+XGBoost_ONNX,400.0,400,0,0.0,0,0.052090044482611036
+LSTM_ONNX,400.0,400,0,0.0,0,1.5575549827190112

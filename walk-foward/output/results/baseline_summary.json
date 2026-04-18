@@ -1,0 +1,16 @@
+{
+  "train_rows": 21218,
+  "validation_rows": 4547,
+  "test_rows": 4547,
+  "baseline_test_metrics": {
+    "mae": 364.7161320393254,
+    "rmse": 489.7660384897574,
+    "mape": 2.0048694463918384,
+    "peak_mape": 2.2771087133673396,
+    "r2": 0.9621587334854367,
+    "peak_count": 455,
+    "residual_mean": -62.03692397631677,
+    "residual_std": 485.82115281398285
+  },
+  "feature_count": 50
+}

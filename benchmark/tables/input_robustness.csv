@@ -1,0 +1,5 @@
+case,model,accepted,message
+missing_fields,XGBoost_ONNX,False,[ONNXRuntimeError] : 2 : INVALID_ARGUMENT : Got invalid dimensions for input: input for the following indices
+nan_values,XGBoost_ONNX,True,accepted
+wrong_dtype,XGBoost_ONNX,False,could not convert string to float: 'a'
+lstm_bad_shape,LSTM_ONNX,False,[ONNXRuntimeError] : 2 : INVALID_ARGUMENT : Got invalid dimensions for input: input for the following indices

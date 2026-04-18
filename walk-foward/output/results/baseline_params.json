@@ -1,0 +1,5 @@
+{
+  "model": "fixed_param_reference",
+  "strategy": "onnx_reference",
+  "notes": "Stored ONNX model used as the fixed-param baseline for walk-forward evaluation."
+}

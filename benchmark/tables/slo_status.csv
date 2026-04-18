@@ -1,0 +1,3 @@
+model,p95_ms,p95_pass,p99_ms,p99_pass,error_rate_normal_pct,error_normal_pass,error_rate_burst_pct,error_burst_pass,cold_start_ms,cold_start_pass
+LSTM_ONNX,1.8258250463986767,True,2.0896860206266865,True,0.0,True,0.0,True,52.48894001124427,True
+XGBoost_ONNX,0.06795999361202115,True,0.13240101805422455,True,0.0,True,0.0,True,52.942120004445314,True
